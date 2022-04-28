@@ -1,0 +1,13 @@
+.usuario-container {
+    width: 100%;
+    padding: 0 25px;
+    margin-top: 25px;
+}
+
+.usuario-container header {
+    margin-top: 60px;
+}
+
+.form-control input {
+    margin-top: 16px;
+}
